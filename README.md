@@ -2,7 +2,8 @@
 
 😄 - I'm Roch, a Developer from south of France.
 
-🌱 - I graduated [OpenClassRooms](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) cursus.
+🌱 - I recently graduated from [OpenClassRooms](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) cursus.
+    - I am now looking for my first front-end job.
 
 🔭 - Passionnate about coding, music, skateboarding, art in general.
 
